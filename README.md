@@ -1,4 +1,4 @@
-# obs-studio 美颜抠图
+# obs-studio 美颜+无绿幕抠图+贴纸 #
 基于最新 obs-studio 30.2开发的美颜抠图滤镜，可以实现无绿幕直接抠图。有需要可以直接Email联系 chfeizy@163.com<br>
 目前支持苹果M芯片<br>
 设置如下图<br>
