@@ -1,5 +1,5 @@
 # obs-studio 美颜+无绿幕抠图+贴纸
-基于最新 obs-studio 30.2.2开发的美颜抠图滤镜，可以实现无绿幕直接抠图。<br>下载地址：[http://47.114.142.30/obs-beauty-1.5-arm.dmg](http://47.114.142.30/obs-beauty-1.5-arm.dmg)<br>
+基于最新 obs-studio 30.2.2开发的美颜抠图滤镜，可以实现无绿幕直接抠图。<br>下载地址：[http://47.114.142.30/obs-beauty-1.5-apple.dmg](http://47.114.142.30/obs-beauty-1.5-apple.dmg)<br>
 目前只支持苹果M芯片，安装好后请先微信扫码登录<br>
 **设置如下图**<br>
 ![1](assets/1.jpg)
