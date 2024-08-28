@@ -16,6 +16,8 @@ windows下载地址：[https://down.koudaiqiche.com/obs-beauty-win-1.0-x64.exe](
 ![img.png](assets/img.png)<br>
 点左边的输出，录像格式这里选择 分片MP4<br>
 ![img2.png](assets/img2.png)<br>
+视频这里 基础和输出都选1920x1080<br>
+![img20.png](assets/img20.png)<br>
 7、添加场景来源<br>
 ![img3.png](assets/img3.png)<br>
 添加视频采集设备<br>
@@ -35,16 +37,12 @@ windows下载地址：[https://down.koudaiqiche.com/obs-beauty-win-1.0-x64.exe](
 ![img8.png](assets/img8.png) ![img9.png](assets/img9.png)<br>
 **最终效果如下图**<br>
 ![2](assets/2.jpg)<br>
-9、继续在场景来源里添加屏幕采集<br>
+9、继续在场景来源里添加屏幕采集，方式选择应用程序采集，应用选择ppt，然后勾选显示全屏和隐藏的窗口<br>
 ![img10.png](assets/img10.png)<br>
-设置为窗口采集<br>
-![img11.png](assets/img11.png)<br>
-窗口里选择已经打开的ppt<br>
-![img12.png](assets/img12.png)<br>
 在场景来源里选中屏幕采集，点击下面的向下按钮把屏幕采集放下面，视频采集就放到上层了。<br>
 ![img13.png](assets/img13.png)<br>
-然背后在工作区调整视频区域位置，在工作区选中屏幕采集，右键选择 变换 > 拉伸到全屏 ，这样就全屏铺满了；然后再调整视频稍微靠右，视频需要全身像的就需要拉满高度，不需要就放到右下角。<br>
-![img14.png](assets/img14.png)<br>
+然背后在工作区调整视频区域位置，在工作区选中屏幕采集，调整好宽度到100%，高度拖动到刚好盖住菜单栏的字（这样全屏的时候位置刚刚好，需要本地测试下）；然后再调整视频稍微靠右，视频需要全身像的就需要拉满高度，不需要就放到右下角。都测试好后可以在来源哪里点击锁定，避免挪动了位置。<br>
+![img14.png](assets/img14.png)
 10、全部设置好后就可以开始录制，然后ptt 幻灯片播放，录制完成后再停止录制，点菜单里的文件显示录像就可以看到刚才录制的视频文件，然后使用剪映等工具进行剪辑。<br>
 ![img15.png](assets/img15.png)<br>
 如果不需要摄像头直接点击这个眼睛隐藏<br>
