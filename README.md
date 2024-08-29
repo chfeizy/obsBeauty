@@ -32,7 +32,7 @@ windows下载地址：[https://down.koudaiqiche.com/obs-beauty-win-1.0-x64.exe](
 **设置如下图**<br>
 ![1](assets/1.jpg)<br>
 并勾选 **开启背景处理**，可以调整美颜设置<br>
-还需要在效果滤镜里添加 **色度键**  这样背景就透明了<br>
+还需要在效果滤镜里添加 **色度键**  这样背景就透明了（最好在灯光比较亮的环境操作，背景环境不要太深，最好是全白之类的）<br>
 ![img8.png](assets/img8.png) ![img9.png](assets/img9.png)<br>
 **最终效果如下图**<br>
 ![2](assets/2.jpg)<br>
