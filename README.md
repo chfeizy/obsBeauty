@@ -36,7 +36,10 @@ windows下载地址：[https://down.koudaiqiche.com/obs-beauty-win-1.0-x64.exe](
 ![img8.png](assets/img8.png) ![img9.png](assets/img9.png)<br>
 **最终效果如下图**<br>
 ![2](assets/2.jpg)<br>
-### 9、继续在场景来源里添加屏幕采集，方式选择应用程序采集，应用选择ppt，然后勾选显示全屏和隐藏的窗口<br>
+### 9、先打开ppt选择幻灯片播放，然后切换到obs(win是ALT+TAB快捷键，mac是command+tab快捷键)再继续在场景来源里添加屏幕采集，方式选择窗口采集，勾选名称为空和显示全屏，然后打开应用选择ppt幻灯片播放<br>
+![img21.png](assets/img21.png)<br>
+![img22.png](assets/img22.png)<br>
+然后再把屏幕拖上点的位置，恰好沿着边缘<br>
 ![img10.png](assets/img10.png)<br>
 在场景来源里选中屏幕采集，点击下面的向下按钮把屏幕采集放下面，视频采集就放到上层了。<br>
 ![img13.png](assets/img13.png)<br>
