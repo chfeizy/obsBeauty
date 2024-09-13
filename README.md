@@ -61,7 +61,7 @@ mac启动后会去获取屏幕录制、麦克风、摄像头和辅助功能都�
 ![img19.png](assets/img19.png)<br>
 还可以去 设置 > 快捷键 里设置开始录制和停止录制的快捷键，这样就可以直接快捷键操作了！<br>
 ![img26.png](assets/img26.png)<br>
-### 11、建议使用比较亮的皮肤这样对齐ppt才比较清楚，避免黑变<br>
+### 11、建议使用比较亮的皮肤这样对齐ppt才比较清楚，避免黑边<br>
 ![img27.png](assets/img27.png)<br>
 去设置里选皮肤<br>
 ![img28.png](assets/img28.png)<br>
