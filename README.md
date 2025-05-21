@@ -1,8 +1,9 @@
 # obs-studio 美颜+无绿幕抠图+贴纸
-基于最新 obs-studio 30.2.2开发的美颜抠图滤镜，可以实现无绿幕直接抠图。<br>
+基于最新 obs-studio 31.0.3开发的美颜抠图滤镜，可以实现无绿幕直接抠图。<br>
 
 ## 安装使用流程如下<br>
 ### 1、先根据自己的系统选择文件下载<br>
+苹果M芯片下载地址[新版]：[https://down.koudaiqiche.com/obs-beauty-2.0-apple.dmg](https://down.koudaiqiche.com/obs-beauty-2.0-apple.dmg)<br>
 苹果M芯片下载地址：[https://down.koudaiqiche.com/obs-beauty-1.1-apple.dmg](https://down.koudaiqiche.com/obs-beauty-1.1-apple.dmg)<br>
 windows下载地址：[https://down.koudaiqiche.com/obs-beauty-win-1.1-x64.exe](https://down.koudaiqiche.com/obs-beauty-win-1.1-x64.exe)<br>
 【windows第一次安装需要安装 [https://aka.ms/vs/17/release/vc_redist.x64.exe](https://aka.ms/vs/17/release/vc_redist.x64.exe) 】<br>
@@ -10,8 +11,8 @@ windows下载地址：[https://down.koudaiqiche.com/obs-beauty-win-1.1-x64.exe](
 ### 2、安装文件<br>
 如果win装了360会提醒，需全部点允许<br>
 ### 3、启动程序，mac启动obs,win启动桌面的obs-beauty<br>
-### 4、第一次会出现二维码扫码框，拿出手机微信扫码<br>
-### 5、扫码关注公众号后，程序会自动启动。扫码一次后下次使用就不需要了<br>
+### 4、第一次会出现二维码扫码框，拿出手机微信扫码（2.0新版已经去掉二维码）<br>
+### 5、扫码关注公众号后，程序会自动启动。扫码一次后下次使用就不需要了（2.0新版已经去掉二维码）<br>
 ### 6、进入后点右下角设置<br>
 mac启动后会去获取屏幕录制、麦克风、摄像头和辅助功能都需要点允许。如果没有获取到权限可以点击菜单obs studio > 检查应用权限。<br>
 ![img23.png](assets/img23.png)<br>
