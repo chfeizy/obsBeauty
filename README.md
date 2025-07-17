@@ -1,9 +1,9 @@
 # obs-studio 美颜+无绿幕抠图+贴纸
-基于最新 obs-studio 31.0.3开发的美颜抠图滤镜，可以实现无绿幕直接抠图。<br>
+基于最新 obs-studio 31.1.1开发的美颜抠图滤镜，可以实现无绿幕直接抠图。window最新版本稍后提供<br>
 
 ## 安装使用流程如下<br>
 ### 1、先根据自己的系统选择文件下载<br>
-苹果M芯片下载地址[新版]：[https://down.koudaiqiche.com/obs-beauty-2.0-apple.dmg](https://down.koudaiqiche.com/obs-beauty-2.0-apple.dmg)<br>
+苹果M芯片下载地址[新版]：[https://down.koudaiqiche.com/obs-beauty-2.1-apple.dmg](https://down.koudaiqiche.com/obs-beauty-2.1-apple.dmg)<br>
 苹果M芯片下载地址：[https://down.koudaiqiche.com/obs-beauty-1.1-apple.dmg](https://down.koudaiqiche.com/obs-beauty-1.1-apple.dmg)<br>
 windows下载地址：[https://down.koudaiqiche.com/obs-beauty-win-1.1-x64.exe](https://down.koudaiqiche.com/obs-beauty-win-1.1-x64.exe)<br>
 【windows第一次安装需要安装 [https://aka.ms/vs/17/release/vc_redist.x64.exe](https://aka.ms/vs/17/release/vc_redist.x64.exe) 】<br>
