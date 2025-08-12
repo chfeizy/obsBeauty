@@ -1,9 +1,9 @@
 # obs-studio 美颜+无绿幕抠图+贴纸
-基于最新 obs-studio 31.1.2开发的美颜抠图滤镜，可以实现无绿幕直接抠图，mac新增抠图gpu推理支持，win的要稍后。<br>
+基于最新 obs-studio 31.1.2开发的美颜抠图滤镜，可以实现无绿幕直接抠图，mac新增抠图和美颜gpu推理支持，win的要稍后。<br>
 
 ## 安装使用流程如下<br>
 ### 1、先根据自己的系统选择文件下载<br>
-苹果M芯片地址：[https://down.koudaiqiche.com/obs-beauty-2.2.2-apple.dmg](https://down.koudaiqiche.com/obs-beauty-2.2.2-apple.dmg)<br>
+苹果M芯片地址（支持GPU）：[https://down.koudaiqiche.com/obs-beauty-2.2.2-apple.dmg](https://down.koudaiqiche.com/obs-beauty-2.2.2-apple.dmg)<br>
 windows下载地址：[https://down.koudaiqiche.com/obs-beauty-win-2.1.2-x64.exe](https://down.koudaiqiche.com/obs-beauty-win-2.1.2-x64.exe)<br>
 【windows第一次安装需要安装 [https://aka.ms/vs/17/release/vc_redist.x64.exe](https://aka.ms/vs/17/release/vc_redist.x64.exe) 】<br>
 目前只支持苹果M芯片和windows64位系统！<br>
