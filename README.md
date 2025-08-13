@@ -1,14 +1,16 @@
 # obs-studio 美颜+无绿幕抠图+贴纸
-基于最新 obs-studio 31.1.2开发的美颜抠图滤镜，可以实现无绿幕直接抠图，mac新增抠图和美颜gpu推理支持，win的要稍后。<br>
+基于最新 obs-studio 31.1.2开发的美颜抠图滤镜，可以实现无绿幕直接抠图，mac+win新增抠图和美颜gpu推理支持，勾选gpu能显著降低cpu使用率。<br>
 
 ## 安装使用流程如下<br>
 ### 1、先根据自己的系统选择文件下载<br>
 苹果M芯片地址（支持GPU）：[https://down.koudaiqiche.com/obs-beauty-2.2.2-apple.dmg](https://down.koudaiqiche.com/obs-beauty-2.2.2-apple.dmg)<br>
-windows下载地址：[https://down.koudaiqiche.com/obs-beauty-win-2.1.2-x64.exe](https://down.koudaiqiche.com/obs-beauty-win-2.1.2-x64.exe)<br>
+windows下载地址（支持GPU）：[https://down.koudaiqiche.com/obs-beauty-win-2.2.1-x64.exe](https://down.koudaiqiche.com/obs-beauty-win-2.2.1-x64.exe)<br>
 【windows第一次安装需要安装 [https://aka.ms/vs/17/release/vc_redist.x64.exe](https://aka.ms/vs/17/release/vc_redist.x64.exe) 】<br>
 目前只支持苹果M芯片和windows64位系统！<br>
 ### 2、安装文件<br>
 如果win装了360会提醒，需全部点允许<br>
+![img30.png](assets/img30.png)
+windows安装注意后面这些路径最好删掉
 ### 3、启动程序，mac启动obs,win启动桌面的obs-beauty<br>
 ### 4、进入后点右下角设置<br>
 mac启动后会去获取屏幕录制、麦克风、摄像头和辅助功能都需要点允许。如果没有获取到权限可以点击菜单obs studio > 检查应用权限。<br>
@@ -34,9 +36,11 @@ mac启动后会去获取屏幕录制、麦克风、摄像头和辅助功能都�
 在音视频滤镜  **美颜+抠图** 滤镜<br>
 ![img7.png](assets/img7.png)<br>
 **设置如下图**<br>
-![img29.png](assets/img29.png)<br>
+![img31.png](assets/img31.png)<br>
 并勾选 **开启背景处理**，可以调整美颜设置<br>
-可以勾选下面的 **使用GPU推理**，抠图推理就使用gpu处理了。（win目前还没有需要等下个版本支持，mac已经支持）<br>
+可以勾选下面的 **抠图使用GPU推理**，抠图推理就使用gpu处理了；<br>
+可以勾选下面的 **美颜使用GPU推理**，美颜推理就使用gpu处理了；<br>
+目前mac和win都已经支持gpu推理，有显卡支持的电脑自动会显示，不支持的就不显示。<br>
 还需要在效果滤镜里添加 **色度键**  这样背景就透明了（最好在灯光比较亮的环境操作，背景环境不要太深，最好是全白之类的，不能穿绿色类的衣服）<br>
 ![img8.png](assets/img8.png) ![img9.png](assets/img9.png)<br>
 **最终效果如下图**<br>
