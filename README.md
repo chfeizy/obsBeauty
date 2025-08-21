@@ -1,5 +1,7 @@
 # obs-studio 美颜+无绿幕抠图+贴纸
 基于最新 obs-studio 31.1.2开发的美颜抠图滤镜，可以实现无绿幕直接抠图，mac+win新增抠图和美颜gpu推理支持，勾选gpu能显著降低cpu使用率。<br>
+github网址：https://github.com/chfeizy/obsBeauty
+国内访问：https://down.koudaiqiche.com/obs-beauty.html
 
 ## 安装使用流程如下<br>
 ### 1、先根据自己的系统选择文件下载<br>
